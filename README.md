@@ -1,6 +1,20 @@
 # Firstly install WSL
 
+Open powershell and run:
+
+```shell
+Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+```
+
 # install Ubuntu
+
+Open windows store and install ubuntu 16.04 LTS.
+
+then open bash and wait until installation finished.
+
+Then create user and password.
+
+Then switch to root user.
 
 ```shell
 sudo su
